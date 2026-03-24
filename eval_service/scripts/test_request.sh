@@ -1,0 +1,1 @@
+python3 eval_service/test/test_api.py --model_name checkpoints/search_r1_qa_em/search_r1_qa_em-fsdp-agent-base_model_qwen2.5-3b-grpo-n16-b512-64-t1.0-lr2e-6debug/global_step_370/actor/huggingface --test_task search --test_type chat_completion --base_url http://localhost:5000
