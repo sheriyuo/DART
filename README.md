@@ -155,3 +155,14 @@ VLLM_USE_PRECOMPILED=1 pip install --editable .
 ## Acknowledgements
 
 This repository is a secondary development based on [verl-tool](https://github.com/TIGER-AI-Lab/verl-tool.git) from TIGER-AI-Lab.
+
+## Citation
+
+```bibtex
+@article{li2026reasoning,
+  title={Reasoning and Tool-use Compete in Agentic RL:From Quantifying Interference to Disentangled Tuning}, 
+  author={Yu, Li and Mingyang, Yi and Xiuyu, Li and Ju, Fan and Fuxin, Jiang and Binbin, Chen and Peng, Li and Jie, Song and Tieying, Zhang},
+  journal={arXiv preprint arXiv:2602.00994},
+  year={2026}
+}
+```
