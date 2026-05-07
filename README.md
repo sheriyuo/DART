@@ -160,8 +160,8 @@ This repository is a secondary development based on [verl-tool](https://github.c
 
 ```bibtex
 @article{li2026reasoning,
-  title={Reasoning and Tool-use Compete in Agentic RL: From Quantifying Interference to Disentangled Tuning}, 
-  author={Yu, Li and Mingyang, Yi and Xiuyu, Li and Ju, Fan and Fuxin, Jiang and Binbin, Chen and Peng, Li and Jie, Song and Tieying, Zhang},
+  title={Reasoning and Tool-use Compete in Agentic RL: From Quantifying Interference to Disentangled Tuning},
+  author={Li, Yu and Yi, Mingyang and Li, Xiuyu and Fan, Ju and Jiang, Fuxin and Chen, Binbin and Li, Peng and Song, Jie and Zhang, Tieying},
   journal={arXiv preprint arXiv:2602.00994},
   year={2026}
 }
